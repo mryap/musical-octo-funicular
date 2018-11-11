@@ -1,0 +1,14 @@
+name: "my-website"
+title: "Hire Yap"
+description: |
+  Hire Yap
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "CV"
+      href: cv.html  
+output: radix::radix_article

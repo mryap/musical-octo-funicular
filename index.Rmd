@@ -1,0 +1,20 @@
+---
+title: "Hire Yap"
+description: |
+   I help you identify your best customers; retain them; and find more like them.
+site: radix::radix_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Radix at:
+# https://rstudio.github.io/radix/website.html
+
+```
+I help marketers capture, analyze, optimize every customer across all digital and non-digital touch-points. I make sure
+
+- Data is fit for purpose
+- Add granularity to existing web analytics data that it doesn’t track by default
+
+The outcome is more actionable insight and optimization opportunities.

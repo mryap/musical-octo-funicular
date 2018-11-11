@@ -1,0 +1,23 @@
+---
+title: "Hire Me"
+site: radix::radix_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+If you need someone who well versed with the whole digital system from web design and development, analytics and data science, I am the candidate you need to talk to. 
+
+## Data Science Standalone System
+My workflow on a standalone system involves:
+
+- R and Python for cleaning, pre- processing and analysis in a Jupyter Notebooks environment 
+- Docker and Conda for [reproducibility](reproducibility.html) 
+- Terminal/Shell command line for [GitHub version control](common-mistakes-in-using-github.html) 
+
+## Web Design and Development
+
+- After decades with Wordpress CMS, I made the jump to  [JamStack](https://hireyap.netlify.com/blog/from-lamp-to-jam)
+- I built this website using the new RStudio Radix with Netlify that has an integrated publishing from Git repositories within 8 hours.  
+
+

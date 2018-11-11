@@ -1,0 +1,28 @@
+---
+title: "About this site"
+description: |
+  How the sausage is make
+site: radix::radix_website  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+The site is build on Rstudio new blogging platgorm - Radix.
+Here are some cautionary notes from my experience
+
+You *better* off with using RStudio Cloud. You don't need to wrestle with library and packages on your local PC. RStudio Cloud comes with everything except the kitchen sink. The kitchen sink is you need to install the Radix library
+
+`install.packages(radix)`
+
+Ensure your Radix website is contained within an RStudio project so you can use the Build Website command in the Build pane to build the site. This allows you to preview the website before deploying it. 
+
+When you first create a new article, you need to push the `Knit to html` button. Subsquent update, just use the Build Website command.
+
+You need to distinguish between Radix articles and Radix website.
+
+
+
+
+
+
