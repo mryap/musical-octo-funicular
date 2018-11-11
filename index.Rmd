@@ -1,7 +1,7 @@
 ---
 title: "Hire Yap"
 description: |
-   I help you identify your best customers; retain them; and find more like them.
+   I help you identify your best customers; retain them and find more like them.
 site: radix::radix_website
 ---
 

@@ -6,7 +6,7 @@ site: radix::radix_website
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-If you need someone who well versed with the whole digital system from web design and development, analytics and data science, I am the candidate you need to talk to. 
+If you need someone who well versed from web design/development, analytics and data science, I am the candidate you need to talk to. 
 
 ## Data Science Standalone System
 My workflow on a standalone system involves:

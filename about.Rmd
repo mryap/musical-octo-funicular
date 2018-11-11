@@ -17,7 +17,7 @@ You *better* off with using RStudio Cloud. You don't need to wrestle with librar
 
 Ensure your Radix website is contained within an RStudio project so you can use the Build Website command in the Build pane to build the site. This allows you to preview the website before deploying it. 
 
-When you first create a new article, you need to push the `Knit to html` button. Subsquent update, just use the Build Website command.
+When you first create a new article, you need to push the `Knit to html` button. For subsquent update, just use the Build Website command.
 
 You need to distinguish between Radix articles and Radix website.
 
