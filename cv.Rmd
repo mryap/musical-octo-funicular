@@ -1,12 +1,14 @@
 ---
 title: "Hire Me"
+description: |
+  If you need someone who well versed from web design/development, analytics and data science, I am the candidate you need to talk to. 
 site: radix::radix_website
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-If you need someone who well versed from web design/development, analytics and data science, I am the candidate you need to talk to. 
+
 
 ## Data Science Standalone System
 My workflow on a standalone system involves:
