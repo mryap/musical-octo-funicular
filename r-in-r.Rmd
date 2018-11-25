@@ -1,0 +1,29 @@
+---
+title: "Running R in an R Notebook"
+description: |
+  A new article created using the Radix format.
+author:
+  - name: YAP S S 
+    #url: https://example.com/norajones
+    #affiliation: Spacely Sprockets
+    #affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: radix::radix_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Thanks to the availability of API, open source tools and data transformation techniques, Google Analytics data can be used as input into powerful data mining/machine learning algorithms to map out customer journey, establish attribution model and predicting uplift in ROI.
+
+R is increasingly popular with web analysts due to its powerful data processing, statistics and visualisation capabilities. Large part of R’s strength in data analysis comes from its ever increasing range of open source packages. 
+
+With tact approval by Google Analytics, `googleAnalyticsR` is the go-to R library to download your Google Analytics data straight into an R, which you could then use with other R packages to create insight and action from your data.[Link](https://analytics.googleblog.com/2016/12/googleanalyticsr-new-r-package-for.html)
+
+Running R in an R Notebook is a significantly better experience than running R in a Jupyter Notebook. 
+
+https://minimaxir.com/2017/06/r-notebooks/
+
+
+
