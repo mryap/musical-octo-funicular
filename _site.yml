@@ -10,5 +10,7 @@ navbar:
     - text: "About"
       href: about.html
     - text: "CV"
-      href: cv.html  
+      href: cv.html
+    - text: "CV"
+      href: reproducibility.html   
 output: radix::radix_article
